@@ -1,0 +1,3 @@
+var payload = msg.payload;
+msg.payload = Number(payload);
+return msg;
