@@ -30,4 +30,8 @@ The default Llama 2 7B Chat model was fine-tuned on this data from OpenAI on a r
 
 This new fine-tuned model was then tested and this specific model can be found on my HuggingFace account: https://huggingface.co/migleolop/Sep1FineTune
 
-The model was then compared against the base model in a 1 to 1 comparison, in both qualitative metrics and conversation output. 
+The model was then compared against the base model in a 1 to 1 comparison, in both automatic metrics and conversation output. 
+
+Overall, the model showed improvement to stay in character, respond only in Spanish, and metrics favored the fine-tuned model, albeit some neglibile improvement but improvement overall nonetheless.
+
+Demo to customer was received favorably and future work would involve upgrading to Llama 3. 
