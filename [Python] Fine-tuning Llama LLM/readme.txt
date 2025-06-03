@@ -37,3 +37,5 @@ Overall, the model showed improvement to stay in character, respond only in Span
 Demo to customer was received favorably and future work would involve upgrading to Llama 3. 
 VR unity server lost documentation and lacked personnel resources, ie. VR setting was being worked on but the python script hosting the server was not launching the local LLM correctly. 
 Presentation showcased both attributes separately. 
+
+This showcase here is just a sample from a working state of the programs. Ultimately, script was trimmed to only essential and working functions, along with some processing of the FT model output. Language detection to only allow Spanish outputs, along with some metrics that could only be done during inference. 
