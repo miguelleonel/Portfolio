@@ -35,3 +35,5 @@ The model was then compared against the base model in a 1 to 1 comparison, in bo
 Overall, the model showed improvement to stay in character, respond only in Spanish, and metrics favored the fine-tuned model, albeit some neglibile improvement but improvement overall nonetheless.
 
 Demo to customer was received favorably and future work would involve upgrading to Llama 3. 
+VR unity server lost documentation and lacked personnel resources, ie. VR setting was being worked on but the python script hosting the server was not launching the local LLM correctly. 
+Presentation showcased both attributes separately. 
