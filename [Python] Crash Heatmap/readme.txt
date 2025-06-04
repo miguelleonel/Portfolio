@@ -8,6 +8,8 @@ Lines with only street information were retreived for their coordinates with Goo
 
 "Term Project Requirements.pdf" explains the course requirements, "Powerpoint - Crash Data Analysis Heatmap.pdf" is the presentation used to explain the overall project. 
 
+Note: HTML was the best method for keeping the map interactive, as converting to figure/PDF did not allow for the pan/zoom feature. 
+Have to download to view properly, as Github shows the html code that was automatically created.
 
 Video presenting project for course (16 minutes):
 https://youtu.be/jZwpR8pVERA
