@@ -41,7 +41,9 @@ Presentation showcased both attributes separately.
 This showcase here is just a sample from a working state of the programs. Ultimately, script was trimmed to only essential and working functions, along with some processing of the FT model output. Language detection to only allow Spanish outputs, along with some metrics that could only be done during inference. 
 
 RESOURCES:
+
 Presentation explaining overall project:
 https://docs.google.com/presentation/d/1nJZe0CdZ8oV3F5PjHi-L2JQVlekN2sa9RpDXi3-CyLA/edit?usp=sharing
+
 Video of my project defense (27 minutes):
 https://youtu.be/Mq4LqRxNz38
