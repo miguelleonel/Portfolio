@@ -2,10 +2,12 @@ Final Project for Engineering Programming II course (EE 5453).
 
 In short, this project made use of publicly requested data from CRIS, a crash report database maintained by the Texas DoT, and dynamically parsed data to generate a heatmap from data supplied. 
 
-Starting from this: 
-<img src="https://raw.githubusercontent.com/miguelleonel/Portfolio/refs/heads/main/%5BPython%5D%20Crash%20Heatmap/Output/Figures/FormattedData.png" width="800">
+Starting from this:
+
+<img src="https://raw.githubusercontent.com/miguelleonel/Portfolio/refs/heads/main/%5BPython%5D%20Crash%20Heatmap/Output/Figures/FormattedData.png" width="640">
 
 To end up with this:
+
 <img src="https://raw.githubusercontent.com/miguelleonel/Portfolio/refs/heads/main/%5BPython%5D%20Crash%20Heatmap/Output/Figures/KingsvilleHeatmap.png" width="640">
 
 
