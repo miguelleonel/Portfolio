@@ -26,9 +26,9 @@ A hard-coded number of turns was chosen at 10 turns as this was enough turns for
 After that process, a pair of 10,000 conversation .jsonl files were generated, with the User response the last turn of the conversation, and the unique prompts of both Agent and User were kept within their files.
 
 This data was compiled together and 'pickled' to be processed during the fine-tuning process. 
-The default Llama 2 7B Chat model was fine-tuned on this data from OpenAI on a remote server supplied by UTSA. More info on ARC can be found here:  https://www.utsa.edu/techsolutions/ResearchSupport/hpc.html
+The default Llama 2 7B Chat model was fine-tuned on this data from OpenAI on a remote server supplied by UTSA. [More info on ARC can be found here](https://www.utsa.edu/techsolutions/ResearchSupport/hpc.html).
 
-This new fine-tuned model was then tested and this specific model can be found on my HuggingFace account: https://huggingface.co/migleolop/Sep1FineTune
+This new fine-tuned model was then tested and this specific model can be found on [my HuggingFace account](https://huggingface.co/migleolop/Sep1FineTune).
 
 The model was then compared against the base model in a 1 to 1 comparison, in both automatic metrics and conversation output. 
 
